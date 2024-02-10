@@ -16,4 +16,5 @@ class Artimetic:
         return power
     def rt(num1, num2):
         currentnum = 0
-        while currentnum!=num1
+        while currentnum!=:
+            
